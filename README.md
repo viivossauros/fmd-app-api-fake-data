@@ -1,7 +1,12 @@
-## Try it
+## API Fake Data
 
-[https://my-json-server.typicode.com/typicode/demo](https://my-json-server.typicode.com/typicode/demo)
+[https://my-json-server.typicode.com/viivossauros/fmd-app-api-fake-data](https://my-json-server.typicode.com/viivossauros/fmd-app-api-fake-data)
 
-## Use your own data
+## Utilizamos nossos próprios dados fakes
 
-Fork it and change `db.json` values or create a repo with a `db.json` file.
+Para alterar os dados que serão consumidos, utilize o arquivo ``db.json`` e 
+seja feliz.
+
+| GET       | Endpoint | API URL                                                                      |
+|-----------|----------|------------------------------------------------------------------------------|
+| Users     | users    | https://my-json-server.typicode.com/viivossauros/fmd-app-api-fake-data/users |
