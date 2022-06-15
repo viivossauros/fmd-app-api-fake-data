@@ -1,9 +1,18 @@
 {
-  "profile": {
-    "id": 1,
-    "name": "Vivian Nadoti",
-    "username": "viviannadoti",
-    "email": "viviannadoti@gmail.com",
-    "password": "teste123"
-  }
+  "profile": [
+    {
+      "id": 1,
+      "name": "Vivian Nadoti",
+      "username": "viviannadoti",
+      "email": "viviannadoti@gmail.com",
+      "password": "teste123"
+    },
+    {
+      "id": 2,
+      "name": "Camila Paiva",
+      "username": "camilapaiva",
+      "email": "camilapaiva@gmail.com",
+      "password": "teste321"
+    }
+  ]
 }
